@@ -6,3 +6,5 @@ Ementa
 
 ### Seção 1: Module 1 - Understanding Linux Concepts
 
+### Seção 2: Module 2 - Download, Install and Configure
+Instalação CentOS na VMWare
